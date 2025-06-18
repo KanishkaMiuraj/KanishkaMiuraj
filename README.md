@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java,Javascript,HTML,CSS,PHP**
+- 💬 Ask me about **Java,Javascript,HTML,CSS,PHP and Flutter**
 
 - 📫 How to reach me **Kanishkamiuraj@gmail.com**
 
