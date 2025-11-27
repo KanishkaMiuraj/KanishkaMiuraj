@@ -24,12 +24,12 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" alt="Streak Stats" />
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
 
 </div>
 
