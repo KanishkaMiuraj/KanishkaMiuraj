@@ -24,12 +24,12 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" alt="Streak Stats" />
 
 </div>
 
@@ -42,13 +42,6 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" alt="Web Stack" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,php,firebase,mysql,mongodb,git,figma" alt="Backend & Tools" />
-</div>
-
-<br />
-
-<h3 align="center" style="color:#33CEFF">📅 Professional Activity Log</h3>
-<div align="center">
-  <img src="https://ghchart.rshah.org/00c6ff/kanishkamiuraj" alt="Kanishka's Github Chart" width="100%" />
 </div>
 
 <br />
