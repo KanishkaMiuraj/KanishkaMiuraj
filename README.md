@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0" height="140" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0" height="150" alt="Languages" />
 </div>
 
 <br />
