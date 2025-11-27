@@ -1,57 +1,81 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+👋+I'm+Kanishka;Flutter+Developer+📱;Full+Stack+Engineer+💻;KM.Dev+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Kanishka%20Miuraj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20Developer%20%7C%20KM.Dev&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kanishkamiuraj99">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&width=435&lines=Building+Mobile+Apps+with+Flutter+🚀;Crafting+Backend+Solutions+💾;Always+Learning,+Always+Coding+👨‍💻" alt="Typing SVG" />
   </a>
-  <a href="mailto:Kanishkamiuraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://fb.com/kanishkamiuraj">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/kanishkamiuraj">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/kanishkamiuraj99">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:Kanishkamiuraj@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://fb.com/kanishkamiuraj">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-<br />
+<br/>
 
-<h3 align="center">👨‍💻 About Me</h3>
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 <b>Currently Working on:</b> Advanced Flutter Mobile Architectures.</li>
+        <li>🌱 <b>Learning:</b> Scalable Backend Systems.</li>
+        <li>💼 <b>Goal:</b> To solve real-world problems with clean code.</li>
+        <li>🇱🇰 <b>Location:</b> Sri Lanka.</li>
+        <li>⚡ <b>Motto:</b> <i>"Talk is cheap. Show me the code."</i></li>
+      </ul>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=cobalt" width="100%" alt="Top Langs" />
+    </td>
 
-<p align="center">
-  I am a passionate <strong>Full Stack Developer</strong> from Sri Lanka 🇱🇰 with a focus on building beautiful, cross-platform mobile applications using <strong>Flutter</strong>. I love turning complex problems into simple, beautiful, and intuitive interface designs.
-</p>
+    <td width="45%" valign="top">
+      <h3>🚀 My Arsenal</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  🔭 <strong>Current Focus:</strong> Advanced Flutter Architecture & Microservices<br>
-  🌱 <strong>Learning:</strong> Backend Scalability with Supabase & Node.js<br>
-  ⚡ <strong>Brand:</strong> Known as <b>KM.Dev</b>
-</p>
+<br/>
 
-<br />
-
-<h3 align="center">🚀 My Technical Arsenal</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,android,react,js,html,css,bootstrap,tailwind,php,mysql,firebase,mongodb,git,github,figma,ps,ai,postman,nodejs&perline=11" alt="My Skills" />
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">🔥 Coding Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=2196F3&fire=FF5722&currStreakLabel=2196F3" alt="Kanishka's Streak" />
-</p>
-
-<br />
+<h3>📉 My Contribution Activity</h3>
+<p>This graph updates automatically to show my working hours and commit frequency.</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishkamiuraj&label=Profile%20views&color=blue&style=flat-square" alt="kanishkamiuraj" />
-  <br />
-  <br />
-  <i>"Simplicity is the soul of efficiency."</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkamiuraj&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=cobalt&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishkamiuraj&label=Views&color=0e75b6&style=flat-square" alt="Views" />
 </div>
