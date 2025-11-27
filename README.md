@@ -25,7 +25,7 @@
   <br/><br/>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" alt="GitHub Streak" />
   </a>
   
   <br/>
