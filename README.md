@@ -26,6 +26,10 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 
 </div>
 
