@@ -18,6 +18,12 @@
 
 <br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0" height="140" alt="Languages" />
+</div>
+
+<br />
+
 <h3 align="center" style="color:#0ea5e9">:: ENGINEERING ARSENAL ::</h3>
 <div align="center" style="background-color: #0f172a; padding: 25px; border-radius: 12px; width: 90%; border: 1px solid #1e293b;">
   <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin" height="45" alt="Mobile" />
