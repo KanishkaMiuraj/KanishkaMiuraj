@@ -1,77 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=33CEFF&height=150&section=header&text=Kanishka%20Miuraj&fontSize=90&fontAlign=50&fontAlignY=40&stroke=0d1117&strokeWidth=2&animation=fadeIn" width="100%" alt="KM.Dev" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&height=200&section=header&text=Kanishka%20Miuraj&fontSize=90&fontAlign=50&fontAlignY=55&desc=FLUTTER%20ARCHITECT%20%7C%20FULL%20STACK%20%7C%20KM.DEV&descAlign=50&descAlignY=82&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
-<table width="100%" style="border: 0; background-color: transparent;">
+<br />
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="55%" valign="top" style="border: 0;">
-      
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CEFF&width=450&lines=Flutter+Architect+%F0%9F%93%B1;Building+Scalable+Solutions+%F0%9F%9A%80;Full+Stack+Engineer+from+SL+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
-      </a>
-      
-      <br/><br/>
-
-      <b>👨‍💻 ABOUT ME</b>
+    <td width="50%" valign="top" align="center">
       <br>
-      <ul>
-        <li>🔭 Working on <b>Enterprise Flutter Apps</b></li>
-        <li>🌱 Learning <b>Supabase & Cloud Architecture</b></li>
-        <li>⚡ <b>Core Strength:</b> Turning complex logic into simple UI</li>
-        <li>📍 <b>Location:</b> Hambantota, Sri Lanka</li>
-      </ul>
-
-      <br>
-
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&pause=1000&color=33CEFF&center=true&vCenter=true&width=400&lines=Verified+Developer+✅;Mobile+Specialist+📱;Clean+Code+Advocate+💎" alt="Typing" />
+      <br><br>
       <a href="https://www.linkedin.com/in/kanishkamiuraj99">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
+      <br><br>
       <a href="mailto:Kanishkamiuraj@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-      
+      <br><br>
+      <a href="https://fb.com/kanishkamiuraj">
+        <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
     </td>
 
-    <td width="45%" valign="center" align="center" style="border: 0;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" width="100%" alt="GitHub Streak" />
-      </a>
+    <td width="50%" valign="center" align="center">
+       <a href="https://git.io/streak-stats">
+         <img src="https://streak-stats.demolab.com?user=kanishkamiuraj&theme=tokyonight&hide_border=true&background=0D1117&ring=33CEFF&fire=33CEFF&currStreakNum=33CEFF&currStreakLabel=33CEFF&sideLabels=33CEFF&sideNums=ffffff" width="90%" alt="GitHub Streak" />
+       </a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h3 align="left">🛠 The Arsenal</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,react,js,html,css,tailwind,nodejs,php,firebase,mysql,mongodb,git,figma,postman&perline=18" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&section=header&text=MY%20ENGINEERING%20STACK&fontSize=20&fontAlign=50&fontAlignY=50&fontColor=33CEFF&stroke=33CEFF&strokeWidth=1" width="100%" />
+  <br/><br/>
+  
+  <table border="0">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin" height="60" alt="Mobile" />
+        <br><br>
+        <b style="color: #ffffff;">MOBILE CORE</b>
+      </td>
+      <td width="50"></td> <td align="center" style="padding: 15px;">
+         <img src="https://skillicons.dev/icons?i=react,js,nodejs,mysql,firebase" height="60" alt="Web/Backend" />
+         <br><br>
+         <b style="color: #ffffff;">WEB & BACKEND</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<h3 align="left">📈 Code Frequency</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkamiuraj&theme=react-dark&bg_color=0D1117&hide_border=true&line=33CEFF&color=33CEFF" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="150" />
 </div>
 
 <br/>
 
-<table width="100%" style="border: 0;">
-  <tr>
-    <td width="50%" align="left" style="border: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kanishkamiuraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="140" />
-    </td>
-    <td width="50%" align="right" style="border: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkamiuraj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="140" />
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kanishkamiuraj&label=Profile%20Views&color=33CEFF&style=flat-square" alt="views" />
-  <br>
-  <p><i>"The code is the documentation." — KM.Dev</i></p>
+  <img src="https://komarev.com/ghpvc/?username=kanishkamiuraj&label=Profile%20Traffic&color=0e75b6&style=for-the-badge" alt="Traffic" />
 </div>
